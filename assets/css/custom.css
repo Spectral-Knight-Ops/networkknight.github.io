@@ -1,0 +1,14 @@
+/* Example overrides */
+#header nav ul li a {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 1rem 0 0;
+  color: #ffcc00;
+  text-decoration: none;
+}
+#header nav ul li a:hover {
+  color: #ffeb9b;
+  text-decoration: underline;
+}
